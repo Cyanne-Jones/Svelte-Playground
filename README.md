@@ -1,4 +1,4 @@
-# Just a cute little playground environmnt to have some silly fun learning Svelte
+# Just a cute little playground environment to have some silly fun learning Svelte
 
 ### Take it for a spin! 
 - Clone this repo
